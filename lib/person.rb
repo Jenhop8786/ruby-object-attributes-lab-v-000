@@ -1,23 +1,23 @@
 class Person
- def name=(Beyonce)
- @name = Beyonce
+ def name=(beyonce)
+ @name = beyonce
 
  def name
    @name
-   puts "Beyonce"
+   puts "beyonce"
 
-   def job=(Singer)
+   def job=(singer)
      @job = singer
 
      def job
        @job
-       puts "Singer"
+       puts "singer"
      end
    end
  end
 end
  end
 
- Beyonce = Person.new
- Beyonce.name = Beyonce
- Beyonce.job = Singer 
+ beyonce = Person.new
+ beyonce.name = beyonce
+ beyonce.job = singer 
