@@ -1,7 +1,4 @@
 
-fido.name = "fido"
-fido.breed = "beagle"
-
 class Dog
   def name=(fido)
     @name= fido
@@ -21,3 +18,5 @@ end
 end
 
 fido =Dog.new
+fido.name = "fido"
+fido.breed = "beagle"
