@@ -1,4 +1,4 @@
-fido =Dog.new
+
 fido.name = "fido"
 fido.breed = "beagle"
 
@@ -20,3 +20,4 @@ def name
 end
 end
 
+fido =Dog.new
