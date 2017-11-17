@@ -19,5 +19,5 @@ end
  end
 
  beyonce = Person.new
- beyonce.name = beyonce
- beyonce.job = singer 
+ beyonce.name = "beyonce"
+ beyonce.job = "singer" 
